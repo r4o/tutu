@@ -1,0 +1,289 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"n",
+				"number"
+			],
+			[
+				"t",
+				"type"
+			],
+			[
+				"No",
+				"NoMemoryError"
+			],
+			[
+				"ra",
+				"raise"
+			],
+			[
+				"E",
+				"exception"
+			],
+			[
+				"mo",
+				"module"
+			],
+			[
+				"lo",
+				"log"
+			],
+			[
+				"tr",
+				"truck"
+			],
+			[
+				"req",
+				"require_relative"
+			],
+			[
+				"al",
+				"alph"
+			],
+			[
+				"if",
+				"if\tif … end"
+			],
+			[
+				"attr_",
+				"attr_writer"
+			],
+			[
+				"na",
+				"name"
+			],
+			[
+				"p",
+				"puts"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 0.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/home/pb/t_rs_r.rb",
+		"/home/pb/truck.rb",
+		"/media/sf_shared/Примеры решения заданий/learn_thinknetica_ruby-master/lesson_3_fundamentals_of_OOP_in_ruby/train_railway_station_route.rb",
+		"/media/sf_shared/Примеры решения заданий/learn_thinknetica_ruby-master/lesson_4_interfaces_inheritance_polymorphism/train_cargo.rb",
+		"/media/sf_shared/Примеры решения заданий/learn_thinknetica_ruby-master/lesson_4_interfaces_inheritance_polymorphism/train.rb",
+		"/media/sf_shared/Примеры решения заданий/learn_thinknetica_ruby-master/lesson_4_interfaces_inheritance_polymorphism/main.rb",
+		"/home/pb/train_railway_station_route.rb",
+		"/media/sf_shared/Примеры решения заданий/learn_thinknetica_ruby-master/lesson_3_fundamentals_of_OOP_in_ruby/test.rb",
+		"/media/sf_shared/Примеры решения заданий/Think-master/hw3/rail_dispatch_service/train.rb",
+		"/media/sf_shared/Примеры решения заданий/Think-master/hw3/rail_dispatch_service.rb",
+		"/media/sf_shared/Примеры решения заданий/blackjack-master/deck.rb",
+		"/media/sf_shared/Примеры решения заданий/blackjack-master/blackjack.rb",
+		"/media/sf_shared/Примеры решения заданий/blackjack-master/card.rb",
+		"/media/sf_shared/Примеры решения заданий/blackjack-master/dealer.rb",
+		"/media/sf_shared/Примеры решения заданий/Think-master/hw1/1-weight.rb",
+		"/media/sf_shared/Примеры решения заданий/Think-master/hw1/2-triangle_area.rb",
+		"/media/sf_shared/Примеры решения заданий/Think-master/hw1/3-right_triangle.rb",
+		"/media/sf_shared/Примеры решения заданий/Think-master/hw9/black_jack/black_jack.rb",
+		"/media/sf_shared/Примеры решения заданий/blackjack-master/user.rb",
+		"/home/pb/car.rb",
+		"/media/sf_shared/Примеры решения заданий/learn_thinknetica_ruby-master/lesson_7_block/train.rb",
+		"/media/sf_shared/Примеры решения заданий/learn_thinknetica_ruby-master/lesson_9_мetaprogramming/train.rb",
+		"/media/sf_shared/Примеры решения заданий/learn_thinknetica_ruby-master/lesson_6_exceptions/company.rb",
+		"/media/sf_shared/Примеры решения заданий/learn_thinknetica_ruby-master/lesson_6_exceptions/train.rb",
+		"/media/sf_shared/Примеры решения заданий/learn_thinknetica_ruby-master/lesson_5_class_methods_modules_and_object_model_ruby/train.rb",
+		"/media/sf_shared/Примеры решения заданий/learn_thinknetica_ruby-master/lesson_4_interfaces_inheritance_polymorphism/railway_station.rb",
+		"/home/pb/main_2.rb",
+		"/home/pb/mein_2.rb",
+		"/home/pb/car_2.rb",
+		"/home/pb/e.rb",
+		"/home/pb/execption.rb",
+		"/home/pb/modules.rb",
+		"/home/pb/main.rb",
+		"/home/pb/sport_car.rb",
+		"/home/pb/test.rb",
+		"/home/pb/2_4_vowels.rb",
+		"/home/pb/2_3_fibonacci.rb",
+		"/home/pb/2_2_array.rb",
+		"/home/pb/2_1_months.rb",
+		"/home/pb/1_3_right_triangle.rb",
+		"/home/pb/1_2_area_triangle.rb",
+		"/home/pb/1_1_weight.rb",
+		"/media/sf_shared/Примеры решения заданий/learn_thinknetica_ruby-master/lesson_9_мetaprogramming/module_accessor.rb",
+		"/media/sf_shared/Примеры решения заданий/learn_thinknetica_ruby-master/lesson_9_мetaprogramming/main.rb",
+		"/media/sf_shared/Примеры решения заданий/learn_thinknetica_ruby-master/lesson_2_fundamentals_of_ruby_part_2/vowel.rb",
+		"/media/sf_shared/Примеры решения заданий/learn_thinknetica_ruby-master/lesson_2_fundamentals_of_ruby_part_2/fibonacci.rb",
+		"/media/sf_shared/Примеры решения заданий/learn_thinknetica_ruby-master/lesson_2_fundamentals_of_ruby_part_2/array.rb",
+		"/media/sf_shared/Примеры решения заданий/learn_thinknetica_ruby-master/lesson_2_fundamentals_of_ruby_part_2/months.rb",
+		"/home/pb/right_triangle.rb",
+		"/media/sf_shared/Примеры решения заданий/learn_thinknetica_ruby-master/lesson_1_fundamentals_of_ruby_part_1/right_triangle.rb",
+		"/home/pb/area_triangle.rb",
+		"/media/sf_shared/Примеры решения заданий/learn_thinknetica_ruby-master/lesson_1_fundamentals_of_ruby_part_1/quadratic_equation.rb",
+		"/media/sf_shared/Примеры решения заданий/learn_thinknetica_ruby-master/lesson_1_fundamentals_of_ruby_part_1/triangle.rb",
+		"/home/pb/weight.rb",
+		"/media/sf_shared/Примеры решения заданий/learn_thinknetica_ruby-master/lesson_1_fundamentals_of_ruby_part_1/weight.rb",
+		"/home/pb/hello.rb",
+		"/media/sf_shared/Примеры решения заданий/learn_thinknetica_ruby-master/lesson_2_fundamentals_of_ruby_part_2/sum_of_purchases.rb",
+		"/home/pb/2.1.rb",
+		"/home/pb/1.3.rb",
+		"/home/pb/1.2.rb",
+		"/home/pb/1.1.rb",
+		"/home/pb/touch",
+		"/home/pb/perfect_weight.rb",
+		"/home/pb/triangle_area.rb",
+		"/home/pb/triangle_right.rb",
+		"/home/pb/1.rb",
+		"/home/pb/2.rb",
+		"/home/pb/hello2.rb",
+		"/home/pb/1"
+	],
+	"find":
+	{
+		"height": 0.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 0.0
+	},
+	"input":
+	{
+		"height": 0.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "manifest.sublime-project",
+	"replace":
+	{
+		"height": 0.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 150.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
