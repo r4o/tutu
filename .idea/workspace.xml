@@ -2,9 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="3379e762-e51e-4eab-8c0c-649f543a5094" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/config/routes.rb" beforeDir="false" afterPath="$PROJECT_DIR$/config/routes.rb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/models/route.rb" beforeDir="false" afterPath="$PROJECT_DIR$/app/models/route.rb" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -178,7 +177,7 @@
       <workItem from="1573739467322" duration="8600000" />
       <workItem from="1574063774849" duration="4028000" />
       <workItem from="1574340976542" duration="7320000" />
-      <workItem from="1574431731936" duration="1267000" />
+      <workItem from="1574431731936" duration="4550000" />
     </task>
     <servers />
   </component>
