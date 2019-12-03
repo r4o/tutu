@@ -3,10 +3,12 @@ Rails.application.routes.draw do
     patch :update_position, on: :member
   end
   resources :trains do
-    resources :carriages
+    resources :carriages, shallow: true
   end
 
   resources :routes
+
+  resource :search, only: [:new, :show, :edit]
 
   get 'welcome/index'
 
