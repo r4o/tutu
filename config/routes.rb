@@ -2,7 +2,7 @@ Rails.application.routes.draw do
   devise_for :users
 
   resources :tickets, only: [:create, :show]
-  resource :search, only: [:new, :show, :edit]
+  resource :search, only: [:new, :show, :edit, :create]
 
   namespace :admin do
     resources :railway_stations do
@@ -19,6 +19,6 @@ Rails.application.routes.draw do
 
   get 'welcome/index'
 
-  root 'welcome#index'
+  root 'searhces#show'
   # For details on the DSL available within this file, see https://guides.rubyonrails.org/routing.html
 end
