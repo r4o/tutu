@@ -1,4 +1,4 @@
-class RailwayStation < ApplicationRecord
+class RailwayStation < ApplicationRecord::Base
   validates :title, presence: true
 
   has_many :trains
