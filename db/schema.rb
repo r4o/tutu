@@ -12,13 +12,16 @@
 
 ActiveRecord::Schema.define(version: 2019_12_12_084648) do
 
+  # These are extensions that must be enabled in order to support this database
+  enable_extension "plpgsql"
+
   create_table "carriages", force: :cascade do |t|
     t.integer "number"
     t.integer "top_seats"
     t.integer "bottom_seats"
     t.integer "side_top_seats"
     t.integer "side_bottom_seats"
-    t.integer "train_id"
+    t.bigint "train_id"
     t.string "type"
     t.datetime "created_at", precision: 6, null: false
     t.datetime "updated_at", precision: 6, null: false
@@ -45,11 +48,11 @@ ActiveRecord::Schema.define(version: 2019_12_12_084648) do
   end
 
   create_table "tickets", force: :cascade do |t|
-    t.integer "user_id"
+    t.bigint "user_id"
     t.datetime "created_at", precision: 6, null: false
     t.datetime "updated_at", precision: 6, null: false
-    t.integer "start_station_id"
-    t.integer "end_station_id"
+    t.bigint "start_station_id"
+    t.bigint "end_station_id"
     t.index ["end_station_id"], name: "index_tickets_on_end_station_id"
     t.index ["start_station_id"], name: "index_tickets_on_start_station_id"
     t.index ["user_id"], name: "index_tickets_on_user_id"
@@ -59,7 +62,7 @@ ActiveRecord::Schema.define(version: 2019_12_12_084648) do
     t.string "number"
     t.datetime "created_at", precision: 6, null: false
     t.datetime "updated_at", precision: 6, null: false
-    t.integer "current_station_id"
+    t.bigint "current_station_id"
     t.index ["current_station_id"], name: "index_trains_on_current_station_id"
   end
 
